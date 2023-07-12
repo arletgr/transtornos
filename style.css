@@ -1,0 +1,29 @@
+body {
+   background-color: rgb(251, 233, 239);
+   color: hotpink;
+   font-family: 'Barlow Semi Condensed', sans-serif;
+   font-size: large;
+}
+
+.titulo{
+    color: midnightblue;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Yeseva One', cursive;
+}
+
+h2{
+    color: midnightblue;
+}
+
+.imagen1{
+    width: 400px;
+}
+
+.imagen2{
+    height: 300px;
+}
+
+/* selector {
+    propiedad: valor; 
+}
+*/ 
